@@ -27,7 +27,7 @@ in python environment.
 
 You can download this Repository with
 ```shell
-git clone https://github.com/TrumanPhd/SolarSAM.git
+git clone https://github.com/AI4RELab/SolarSAM.git
 ```
 or just download with Github GUI
 
