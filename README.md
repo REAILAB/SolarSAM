@@ -21,6 +21,8 @@ To run this model, you need to install the following packages:
 
 samgeo
 
+CV2
+
 numpy
 
 in python environment.
