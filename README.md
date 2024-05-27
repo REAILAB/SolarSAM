@@ -27,7 +27,7 @@ numpy
 
 in python environment.
 
-You can download this Repository with
+You can download these with
 ```shell
 git clone https://github.com/AI4RELab/SolarSAM.git
 ```
