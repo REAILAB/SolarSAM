@@ -35,7 +35,7 @@ or just download with Github GUI
 
 ## 4. Files
 
-### Ablation 
+### Ablation/ 
 |
 
 | --prompt engineering.py
@@ -52,7 +52,7 @@ or just download with Github GUI
 
 | In this file, the ablation study is provided.
 
-### Inference 
+### Inference/ 
 |
 
 | --inference.py
