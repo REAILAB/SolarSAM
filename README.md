@@ -35,19 +35,23 @@ or just download with Github GUI
 
 ## 4. Files
 
-### prompt engineering.py
+### Ablation 
+|
+| --prompt engineering.py
+|
+| In this file, the prompt engineering and visualization are provided.
+|
+| --Ablation.py
+|
+| In this file, the ablation study is provided.
 
-In this file, the prompt engineering and visualization are provided.
-
-### Ablation.py
-
-In this file, the ablation study is provided.
-
-### inference.py
-
-In this file, the inference of SAM with the optimal parameters is provided.
-
-And the area of the rooftop is calcualted in this script.
+### Inference 
+|
+| --inference.py
+|
+| In this file, the inference of SAM with the optimal parameters is provided.
+|
+| And the area of the rooftop is calcualted in this script.
 
 ## 5. Citation
 
