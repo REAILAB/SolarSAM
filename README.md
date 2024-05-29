@@ -1,6 +1,7 @@
-![SolarSAM](https://github.com/AI4RELab/SolarSAM/assets/105758272/d28be072-bf72-4e15-a245-fcfbb7935206)# SolarSAM
+![SolarSAM](https://github.com/AI4RELab/SolarSAM/assets/105758272/d28be072-bf72-4e15-a245-fcfbb7935206)
+# SolarSAM
 Comprehensive BIPV potential assessment methods for emerging city with SAM and satellite imagery 
-[SolarSAM](SolarSAM.jpg)
+![SolarSAM](https://github.com/AI4RELab/SolarSAM/assets/105758272/d28be072-bf72-4e15-a245-fcfbb7935206)
 
 ## 1. Introduction
 
