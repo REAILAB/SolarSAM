@@ -31,7 +31,7 @@ in python environment.
 
 You can download these with
 ```shell
-git clone https://github.com/AI4RELab/SolarSAM.git
+git clone https://github.com/REAILAB/SolarSAM.git
 ```
 or just download with Github GUI
 
