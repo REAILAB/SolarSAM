@@ -74,6 +74,6 @@ The paper has been published in Renewable Energy
 
 If you use this model, please cite our paper.
 
-The DOI: https://www.sciencedirect.com/science/article/pii/S0960148124016288
+The DOI: [sciencedirect](https://doi.org/10.1016/j.renene.2024.121560)
 
 The BibTex:
