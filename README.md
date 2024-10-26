@@ -68,9 +68,12 @@ or just download with Github GUI
 | And the area of the rooftop is calcualted in this script.
 
 ## 5. Citation
+https://arxiv.org/abs/2407.00296****
+
+The paper has been published in Renewable Energy
 
 If you use this model, please cite our paper.
 
-The DOI:
+The DOI: https://www.sciencedirect.com/science/article/pii/S0960148124016288
 
 The BibTex:
